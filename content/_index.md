@@ -26,7 +26,8 @@ sections:
         title: Mon profil et mes compétences
         content: |
           Marketing | Communication | Design | Digital
-        image: images/feature1.png
+        image: >-
+          /images/m-letter-logo-vector-design-initial-letter-m-logo-design-png_269592.jpg
         image_alt: App preview on a phone and tablet
         actions:
           - type: action
