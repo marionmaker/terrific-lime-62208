@@ -23,7 +23,7 @@ sections:
     features:
       - type: feature_item
         template: feature_item
-        title: The Best Feature of Your Services
+        title: Mon profil et mes compétences
         content: |
           Marketing | Communication | Design | Digital
         image: images/feature1.png
