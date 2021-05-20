@@ -76,9 +76,6 @@ sections:
     template: section_reviews
     section_id: reviews
     title: Recommandations
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
     background: white
     reviews:
       - type: review_item
