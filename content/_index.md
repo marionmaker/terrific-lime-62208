@@ -73,7 +73,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    subtitle: 'Marketing | Communication | Design '
+    subtitle: Marketing | Communication | Design | Digital
   - type: section_reviews
     template: section_reviews
     section_id: reviews
