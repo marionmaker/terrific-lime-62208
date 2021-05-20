@@ -73,6 +73,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+    subtitle: 'Marketing '
   - type: section_reviews
     template: section_reviews
     section_id: reviews
