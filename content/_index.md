@@ -41,10 +41,8 @@ sections:
       - type: feature_item
         template: feature_item
         title: Mes expériences
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: |
+          Une expérience dans des grands groupes, start-ups et PME
         image: /images/8.jpg
         image_alt: App users welcoming a new member
         actions:
