@@ -19,7 +19,7 @@ sections:
     template: section_features
     section_id: features
     title: Mes compétences
-    background: white
+    background: gray
     features:
       - type: feature_item
         template: feature_item
