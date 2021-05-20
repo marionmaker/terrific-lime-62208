@@ -41,7 +41,8 @@ params:
     sections:
       - type: footer_text
         template: footer_text
-        image: /images/Capture_logo_site.PNG
+        image: >-
+          /images/m-letter-logo-vector-design-initial-letter-m-logo-design-png_269592.jpg
         image_alt: Footer logo
         image_url: /
         content: Stackbit theme demo
