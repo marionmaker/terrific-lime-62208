@@ -65,7 +65,7 @@ sections:
         actions:
           - type: action
             template: action
-            label: Learn More
+            label: En savoir plus
             url: /features
             style: secondary
             has_icon: true
