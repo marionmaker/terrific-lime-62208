@@ -5,21 +5,17 @@ sections:
     template: section_content
     section_id: features
     title: Profil et compétences
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      Diplômée en Commerce International et en Marketing/Communication, j'ai des
+      compétences :
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      *   Marketing digital : création de sites internet (WordPress), réseaux
+      sociaux, 
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      *   Design : Canva, Photoshop
 
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      *   Langues étrangères : Anglais, Espagnol
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     background: gray
