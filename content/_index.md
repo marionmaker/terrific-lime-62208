@@ -75,7 +75,7 @@ sections:
   - type: section_reviews
     template: section_reviews
     section_id: reviews
-    title: Testimonials
+    title: Recommandations
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales.
